@@ -3,8 +3,6 @@ b="hello, have a good day"
 c = []
 for i in b:
     if i.lower() in a:
-        c.append(i)
+        c.extend(i)
 print(c)
-print(''.join(c))
-
 
