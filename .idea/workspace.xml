@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a436b2ba-4ed5-42f9-aaa1-5a464579746a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ppp.py" afterDir="false" />
+    <list default="true" id="a436b2ba-4ed5-42f9-aaa1-5a464579746a" name="Default Changelist" comment="Adding New Programs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog10.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog10.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="17" />
     <option name="y" value="4" />
     <option name="width" value="1400" />
@@ -286,7 +284,7 @@
       <workItem from="1562224761956" duration="513000" />
       <workItem from="1562225324379" duration="633000" />
       <workItem from="1562228601042" duration="12916000" />
-      <workItem from="1562298839109" duration="1458000" />
+      <workItem from="1562298839109" duration="2435000" />
     </task>
     <task id="LOCAL-00001" summary="Adding New Programs">
       <created>1562237892423</created>
@@ -299,7 +297,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15520000" />
+    <option name="totallyTimeSpent" value="16497000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,13 +317,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293011" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293011" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293011" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3293011" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3293011" />
