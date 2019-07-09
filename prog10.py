@@ -5,4 +5,3 @@ for i in b:
     if i.lower() in a:
         c.extend(i)
 print(c)
-
