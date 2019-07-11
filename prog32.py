@@ -5,7 +5,7 @@ people = {1: {'Name': 'joshi', 'Age': '20', 'Sex': 'Male'},
 
 print(people[1])
 for i in people:
-    del i['Sex']
+    del i ['Sex']
 print(people)
 # for idnumber, pinfo in people.items():
 #     print("\nPerson ID:", idnumber)
